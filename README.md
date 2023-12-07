@@ -27,12 +27,3 @@ Welcome to the My Music Player Web App! This React application allows users to p
 1. After Clone the repository.
    ```bash
    npm start
-
-
-
-
-
-
-
-
-
