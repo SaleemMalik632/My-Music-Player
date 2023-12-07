@@ -1,0 +1,11 @@
+{
+  "common": {
+    "appTitle": "Your App",
+    "dashboard": "Dashboard",
+    "blogs": "Blogs",
+    "profilePage": "Profile Page",
+    "analytics": "Analytics",
+    "404Page": "404 Page",
+    "lastPage": "Last Page"
+  }
+}

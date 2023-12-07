@@ -1,0 +1,7 @@
+body{
+  background-color: currentColor;
+}
+.navlinkItem:hover{
+  background-color:white;
+  color: black;
+}
